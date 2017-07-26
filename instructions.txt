@@ -1,0 +1,4 @@
+INSTRUCTIONS
+1.	Include the open GL libraries whose download links are available in references.
+2.	If already included , open Project-N_queen_problem.cpp.
+3.	Compile and run the file, Follow the instructions given in the game.
