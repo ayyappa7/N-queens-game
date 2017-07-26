@@ -1,4 +1,4 @@
 INSTRUCTIONS
-1.	Include the open GL GLUT libraries in your IDE.
-2.	Open N_queen.cpp 
+1.	Include open GL libraries in IDE
+2.	If already included , open Project-N_queen_problem.cpp.
 3.	Compile and run the file, Follow the instructions given in the game.
