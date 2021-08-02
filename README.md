@@ -1,4 +1,5 @@
 # N-queens-game
+This project is a GUI based game developed in C++. Start the game using below instructions.  
 
 Setup Gl, Glu, Glut libraries in your machine.
 Run the Project-N_queen_problem.cpp program
